@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
 Servicio para el cálculo de rendimento
  */
 
-@Service // TODO: Añadimos provisionalmente el @Service
+//@Service // TODO: Añadimos provisionalmente el @Service
 public class HoldingPerformanceCalculator {
 
     public List<HoldingDTO> getHoldingsPerfomance(Portfolio portfolio, List<Transaction> lTransactions,

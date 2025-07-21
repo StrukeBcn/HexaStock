@@ -27,7 +27,7 @@ import org.springframework.stereotype.Service;
  * </ul>
  * </p>
  */
-@Service
+//@Service
 public class GetStockPriceService implements GetStockPriceUseCase {
 
     /**
